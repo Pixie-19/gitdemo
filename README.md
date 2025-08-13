@@ -1,4 +1,4 @@
 # gitdemo
-my first git repository
+My first git repository 
 <br>
 Author - Rishita Seal
